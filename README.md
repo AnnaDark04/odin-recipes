@@ -14,9 +14,9 @@ assignment
 
 Iteration 1:
 
-1.
+1. Create index.html file
 
-2.
+2. Create h1 heading with Odin Recipes to the body
 
 Iteration 2:
 
