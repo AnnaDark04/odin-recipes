@@ -41,6 +41,7 @@ Iteration 3:
 
 Iteration 4:
 
-1.
+1. Add two more recipes html files, the first being potato-soup.html
+and the other being chicken-lettuce-wraps.html.
 
-2.
+2. Link two recipes to index.html and added unordered list to index.html.
