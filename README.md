@@ -31,13 +31,13 @@ Iteration 2:
 Iteration 3: 
 
 
-1.
+1. Add image to lasagna.html
 
-2.
+2. Add description heading under image
 
-3.
+3. Add Ingredients heading and unordered list for the ingredients
 
-4.
+4. Add Directions heading and ordered list for directions
 
 Iteration 4:
 
