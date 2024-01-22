@@ -20,13 +20,13 @@ Iteration 1:
 
 Iteration 2:
 
-1.
+1. Create a new directory within odin-recipes and named it recipes
 
-2.
+2. Create a new html file called lasagna.html
 
-3.
+3. Create h1 heading with World's Best Lasagna to the body
 
-4.
+4. Link lasagna.html to index.html 
 
 Iteration 3: 
 
